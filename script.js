@@ -3,8 +3,8 @@ let cart = [];
 let water = {Name: 'water', Price: 1.00}
 let coke = {Name: 'coke', Price: 2.00}
 let doritos = {Name: 'doritos', Price: 1.75}
-let tea = {Name: 'coke', Price: 1.25}
-let coffee = {Name: 'coke', Price: 2.00}
+let tea = {Name: 'tea', Price: 1.25}
+let coffee = {Name: 'coffee', Price: 2.00}
 
 function addItems(name, price)
 {
